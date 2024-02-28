@@ -8,3 +8,6 @@
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+
+[Chinese Tutorial](https://github.com/kaivin/markdown/blob/master/readme.md)
