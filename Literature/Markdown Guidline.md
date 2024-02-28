@@ -1,4 +1,5 @@
-""" how to create table"""
+# 1. Guideline
+""" how to create table """
 
 | Command | Description | Note |
 | --- | --- | --- |
@@ -9,5 +10,5 @@
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-
+# 2. Tutorial
 [Chinese Tutorial](https://github.com/kaivin/markdown/blob/master/readme.md)
