@@ -1,5 +1,8 @@
 ![alt](https://blog.paperspace.com/content/images/2021/05/image-32.png)
-<center> source: https://www.mathworks.com/discovery/convolutional-neural-network.html?ref=blog.paperspace.com </center>
+<p align = 'center'> source: https://www.mathworks.com/discovery/convolutional-neural-network.html?ref=blog.paperspace.com </p> 
+<!---
+This is for explanation
+-->
 
 
 # 1. Convolutional Layer
