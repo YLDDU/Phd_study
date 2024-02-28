@@ -1,3 +1,7 @@
+![alt](https://blog.paperspace.com/content/images/2021/05/image-32.png)
+<center> source: https://www.mathworks.com/discovery/convolutional-neural-network.html?ref=blog.paperspace.com </center>
+
+
 # 1. Convolutional Layer
 
 # 2. Pooling Layer
